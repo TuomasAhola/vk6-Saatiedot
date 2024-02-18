@@ -3,7 +3,7 @@ import { Text, StyleSheet, Image, View } from 'react-native'
 
 const api = {
     url: 'https://api.openweathermap.org/data/2.5/weather?',
-    key: '59ba6c43412d04bf2c2787482ce2d27f',
+    key: 'tekstitiedostossa',
     icons: 'http://openweathermap.org/img/wn/'
 }
 
